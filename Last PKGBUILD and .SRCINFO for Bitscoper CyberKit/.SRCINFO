@@ -1,0 +1,14 @@
+pkgname = bitscoper-cyberkit-bin
+pkgbase = bitscoper-cyberkit-bin
+pkgdesc = A Flutter application consisting of TCP Port Scanner, Route Tracer, Pinger, File Hash Calculator, String Encoder, Series URI Crawler, DNS Record Retriever, and WHOIS Retriever.
+pkgver = 8.0.7
+pkgrel = 1
+url = https://github.com/bitscoper/Bitscoper_CyberKit/
+arch = x86_64
+license = GPL3
+makedepends = unzip
+depends = gtk3
+provides = bitscoper-cyberkit-bin
+options = !debug
+source = https://github.com/bitscoper/Bitscoper_CyberKit/releases/latest/download/Linux_x64_Executable.zip
+sha256sums = SKIP
