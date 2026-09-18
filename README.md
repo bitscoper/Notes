@@ -8,6 +8,7 @@
 - [How to Automatically Sort GNOME App Picker Entries Alphabetically](<How to Automatically Sort GNOME App Picker Entries Alphabetically>)
 - [How to Change the Admin URI in Bludit](<How to Change the Admin URI in Bludit>)
 - [How to Check Which Command nwg-drawer Uses to Launch Applications on UWSM](<How to Check Which Command nwg-drawer Uses to Launch Applications on UWSM>)
+- [How to Clean Git Commit History](<How to Clean Git Commit History>)
 - [How to Clean Homebrew](<How to Clean Homebrew>)
 - [How to Configure the OpenLiteSpeed Web Server to Recognize the MIME Type for the webmanifest Files on AlmaLinux](<How to Configure the OpenLiteSpeed Web Server to Recognize the MIME Type for the webmanifest Files on AlmaLinux>)
 - [How to Count Files Recursively for the First Level Subdirectories](<How to Count Files Recursively for the First Level Subdirectories>)
