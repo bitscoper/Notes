@@ -1,4 +1,4 @@
-## How to Automatically Sort GNOME App Picker Entries Alphabetically
+# How to Automatically Sort GNOME App Picker Entries Alphabetically
 
 ```sh
 gsettings set org.gnome.shell app-picker-layout "[]"

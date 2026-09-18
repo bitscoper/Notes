@@ -1,4 +1,4 @@
-## List of Treble GSIs with Built-in microG
+# List of Treble GSIs with Built-in microG
 
 - <https://github.com/Doze-off/axion_aosp/releases/>
 - <https://github.com/Doze-off/crdroid_gsi_treble/releases/>
