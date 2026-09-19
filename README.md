@@ -1,8 +1,6 @@
-<div align="center">
+[![No AI](https://raw.githubusercontent.com/nuxy/no-ai-badge/master/badge.svg)](https://github.com/bitscoper/Notes#notes)
 
-# Notes
-
-</div>
+## Table of Contents
 
 - [How to Allow the Jellyfin Server to Access Library Directories Under Your Home Directory](<How to Allow the Jellyfin Server to Access Library Directories Under Your Home Directory>)
 - [How to Automatically Sort GNOME App Picker Entries Alphabetically](<How to Automatically Sort GNOME App Picker Entries Alphabetically>)
@@ -38,3 +36,8 @@
 - [The F-Droid Applications I Use](<The F-Droid Applications I Use>)
 - [WordPress FooGallery Exported JSON to Importable Piwigo Tree Creator](<WordPress FooGallery Exported JSON to Importable Piwigo Tree Creator>)
 - [WordPress Snippet to Create Custom Post Type](<WordPress Snippet to Create Custom Post Type>)
+
+## Notes
+
+- I write commit messages in Title Case and past tense, leaving out articles to keep them concise while still showing details.
+- I later PGP-signed all my commits, so they show a later date.
