@@ -13,17 +13,15 @@ com.agatamessina.webinspector
 com.aicodix.assempix
 com.aicodix.shredpix
 com.android.geto
-com.android.vending
 com.androidvip.sysctlgui
 com.apk.editor
-com.aurora.store
 com.awakeonlanmobile
 com.bobek.compass
 com.buzbuz.smartautoclicker
 com.codedead.advancedportchecker
 com.codedead.deadhash
 com.craxiom.networksurvey
-com.dergoogler.mmrl
+com.dimowner.audiorecorder
 com.dosse.speedtest
 com.dp.logcatapp
 com.emanuelef.remote_capture
@@ -31,9 +29,6 @@ com.example.flut_crack
 com.example.flutter_http_server
 com.github.digitallyrefined.androidipcamera
 com.github.warren_bank.airplay_client
-com.gitlab.mudlej.MjPdfReader
-com.google.android.gms
-com.google.android.gsf
 com.gtp.showapicturetoyourfriend
 com.iiordanov.freeaRDP
 com.iiordanov.freebVNC
@@ -51,6 +46,7 @@ com.paperknife.app
 com.pcapdroid.mitm
 com.samueljhuf.upnp_explorer
 com.sidhant.mahjong
+com.smartpack.kernelmanager
 com.sosauce.cutemusic
 com.surfaceocean.nexttraceroute
 com.tachibana.downloader
@@ -81,8 +77,6 @@ io.alexrintt.kanade
 io.github.devhyper.openvideoeditor
 io.github.muntashirakon.captiveportalcontroller
 io.github.rufid
-io.github.wifi_password_manager
-io.pcontacts.app
 jp.ddo.hotmist.unicodepad
 lu.knaff.alain.saf_sftp
 marto.rtl_tcp_andro
@@ -105,7 +99,6 @@ org.eu.exodus_privacy.exodusprivacy
 org.exbin.bined.editor.android
 org.fairscan.app
 org.fdroid.basic
-org.fdroid.fdroid
 org.fossify.calendar
 org.jumascola.filmflip
 org.kaijinlab.usbdevinfo
@@ -123,6 +116,5 @@ ru.tech.imageresizershrinker
 space.celestia.mobilecelestia
 tk.hack5.treblecheck
 uk.org.retallack.onvifcamera
-us.spotco.maps
 xdsopl.robot36
 xyz.ptgms.tosdr
