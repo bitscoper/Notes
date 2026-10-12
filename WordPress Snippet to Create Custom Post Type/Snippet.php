@@ -1,3 +1,5 @@
+<?php
+
 /* By Abdullah As-Sadeed */
 
 function create_custom_post_type()

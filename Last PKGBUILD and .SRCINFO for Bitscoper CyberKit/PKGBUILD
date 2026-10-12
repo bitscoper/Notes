@@ -1,7 +1,7 @@
 # Maintainer: bitscoper <abdullah_as-sadeed.bd@protonmail.com>
 
 pkgname=bitscoper-cyberkit-bin
-pkgdesc="A Flutter application consisting of TCP Port Scanner, Route Tracer, Pinger, File Hash Calculator, String Encoder, Series URI Crawler, DNS Record Retriever, and WHOIS Retriever."
+pkgdesc="A Flutter application offering Bluetooth Low Energy Scanner, IPv4 Subnet Scanner, mDNS Scanner, UPnP Scanner, Route Tracer, TCP Port Scanner, Pinger, DNS Record Retriever, File Hash Calculator, String Hash Calculator, Base Encoder, Series URI Crawler, OGP Data Extractor, WHOIS Retriever, CVSS Calculator, Morse Code Translator, and Wi-Fi Details Viewer."
 url="https://github.com/bitscoper/Bitscoper_CyberKit/"
 license=("GPL3")
 provides=("bitscoper-cyberkit-bin")
