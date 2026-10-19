@@ -29,6 +29,7 @@ com.example.flut_crack
 com.example.flutter_http_server
 com.github.digitallyrefined.androidipcamera
 com.github.warren_bank.airplay_client
+com.gitlab.mudlej.MjPdfReader
 com.gtp.showapicturetoyourfriend
 com.iiordanov.freeaRDP
 com.iiordanov.freebVNC
@@ -36,6 +37,7 @@ com.inspiredandroid.linuxcommandbibliotheca
 com.iyps
 com.junkfood.seal
 com.kasumic.vpndetector
+com.kunzisoft.keepass.libre
 com.lukeneedham.vibrator
 com.maazm7d.termuxhub
 com.mantz_it.rfanalyzer
@@ -56,13 +58,11 @@ com.termux
 com.termux.api
 com.ventoid.app
 com.wirelessalien.zipxtract
-com.x8bit.bitwarden
 com.xyz.relativity.kineticespeedometer
 compress.joshattic.us
 de.storchp.fdroidbuildstatus
 dev.davidv.translator
 dev.imranr.obtainium.fdroid
-dev.leonlatsch.photok
 dev.sasikanth.rss.reader
 dev.sebaubuntu.athena
 dev.secam.simpletag
@@ -102,6 +102,7 @@ org.fdroid.basic
 org.fossify.calendar
 org.jumascola.filmflip
 org.kaijinlab.usbdevinfo
+org.linphone
 org.localsend.localsend_app
 org.maintainteam.hypatia
 org.onionshare.android.fdroid
@@ -110,7 +111,6 @@ org.satdump.SatDump
 org.sufficientlysecure.keychain
 org.torproject.torbrowser
 org.videolan.vlc
-proton.android.pass.fdroid
 rocks.poopjournal.morse
 ru.tech.imageresizershrinker
 space.celestia.mobilecelestia
